@@ -1,0 +1,6 @@
+C:\Git\PP\ZmiennaLiczbaParametrow\ZmiennaLiczbaParametrow\bin\Release\ZmiennaLiczbaParametrow.exe.config
+C:\Git\PP\ZmiennaLiczbaParametrow\ZmiennaLiczbaParametrow\bin\Release\ZmiennaLiczbaParametrow.exe
+C:\Git\PP\ZmiennaLiczbaParametrow\ZmiennaLiczbaParametrow\bin\Release\ZmiennaLiczbaParametrow.pdb
+C:\Git\PP\ZmiennaLiczbaParametrow\ZmiennaLiczbaParametrow\obj\Release\ZmiennaLiczbaParametrow.exe
+C:\Git\PP\ZmiennaLiczbaParametrow\ZmiennaLiczbaParametrow\obj\Release\ZmiennaLiczbaParametrow.pdb
+C:\Git\PP\ZmiennaLiczbaParametrow\ZmiennaLiczbaParametrow\obj\Release\ZmiennaLiczbaParametrow.csprojAssemblyReference.cache

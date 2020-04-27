@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZmiennaLiczbaParametrow", "ZmiennaLiczbaParametrow\ZmiennaLiczbaParametrow.csproj", "{6457C9C0-A034-452D-9201-E52F59F9F713}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6457C9C0-A034-452D-9201-E52F59F9F713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6457C9C0-A034-452D-9201-E52F59F9F713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6457C9C0-A034-452D-9201-E52F59F9F713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6457C9C0-A034-452D-9201-E52F59F9F713}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFC67F1B-4A80-410E-AAF8-ED9E64F54A3F}
+	EndGlobalSection
+EndGlobal
